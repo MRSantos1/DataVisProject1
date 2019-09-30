@@ -1,2 +1,2 @@
-# Enter your API key
-gkey = "AIzaSyDaEUS1pObyWoFgQO7oQe8xM458soQjfqo"
+# OMDB API key
+APIkey = "e0ca3f65"
